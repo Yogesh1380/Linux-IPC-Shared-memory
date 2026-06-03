@@ -137,12 +137,11 @@ int main() {
 
 
 
-## OUTPUT
+## OUTPUT :
+
+![image](https://github.com/22008686/Linux-IPC-Shared-memory/assets/118916413/7e9a85fa-9eb2-486b-9957-6c58dbe5c915)
 
 
-![Alt text](os_exp6_1.png)
-
-![Alt text](os_exp6_2.png)
 
 
 # RESULT:
